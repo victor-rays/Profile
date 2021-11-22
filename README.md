@@ -1,4 +1,3 @@
-# Victor-ray 
 Currently Customer Support Representative for Netflix at Majorel while studying Development of e-Services.
 
 IT, Linux & Open-Source Enthusiast
