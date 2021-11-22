@@ -15,7 +15,9 @@ I’m also helping out as a Volunteer being a NextcloudPi Wiki Moderator and NCP
 
 ## Specialized in
 
-Informatics/Computer and Systems Sciences, Information Systems
+Informatics/Computer and Systems Sciences 
+
+Information Systems
 
 ## Skills
 
