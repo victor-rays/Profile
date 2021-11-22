@@ -12,6 +12,8 @@ I currently have a little side-project together with my studies, having set up a
 
 I’m also helping out as a volunteer being a NextcloudPi Wiki Moderator and NCP Documentation Volunteer, I also have some plans on creating something on the Algorand blockchain where I’m currently a Governor in the first Governor round, but that is something that will have to come later. 
 
+[Nextcloud Forum profile](https://help.nextcloud.com/u/zendaiowl/summary)
+
 ## Specialized in
 
 Informatics/Computer and Systems Sciences 
