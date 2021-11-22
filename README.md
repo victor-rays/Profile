@@ -11,11 +11,7 @@ I’m looking to work as a Developer since that is more of my passion, to develo
 
 I currently have a little side-project together with my studies, having set up a Raspberry Pi 4 model B rev.1.2 with a NextcloudPi instance and keeping that up and running to get some admin experience. 
 
-I’m also helping out as a Volunteer being a NextcloudPi Wiki Moderator and NCP Documentation Volunteer. 
-
-We are currently migrating all the documentation from https://docs.nextcloudpi.com to  its own Category in the Nextcloud forum instead called “NCP Documentation”, this migration is still in-progress but you can find my profile [here](https://help.nextcloud.com/u/ZendaiOwl/summary) if it is something that might be of interest to look at. 
-
-I also have some plans on creating something on the Algorand blockchain where I’m currently a Governor in the first Governor round, but that is something that will have to come later. 
+I’m also helping out as a Volunteer being a NextcloudPi Wiki Moderator and NCP Documentation Volunteer, I also have some plans on creating something on the Algorand blockchain where I’m currently a Governor in the first Governor round, but that is something that will have to come later. 
 
 ## Specialized in
 
