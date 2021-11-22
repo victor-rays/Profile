@@ -5,7 +5,7 @@ IT, Linux & Open-Source Enthusiast
 
 ## General information about me
 
-Hello! My name is Victor-ray and I'm currently working full-time as Customer Support Representative at Majorel for Netflix here in Amsterdam while simultaneously getting my degree in Development of e-Services at [University Dalarna](https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/). 
+Hello! My name is Victor-ray and I'm currently working full-time as Customer Support Representative at Majorel for Netflix while simultaneously getting my degree in Development of e-Services at [University Dalarna](https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/). 
 
 I’m looking to work as a Developer since that is more of my passion, to develop and build something that others find interesting, enjoy or simply is useful for them in their everyday lives. 
 
