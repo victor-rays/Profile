@@ -18,54 +18,6 @@ Informatics/Computer and Systems Sciences
 
 Information Systems
 
-## Skills
-
-Programming Languages
-- Java
-- Python
-- JavaScript
-- Apps Script
-- HTML 
-- CSS
-
-Control Systems Programming
-- Crestron
-- Neets
-- AMX
-
-OS
-- Linux
-- Windows
-- MacOS
-- Android
-- iOS
-
-Office Suite's
-- Google Workspace
-- Office 365
-- LibreOffice
-
-DAW Software (_Digital Audio Workstation_)
-- Cubase
-- Studio One
-- ProTools
-
-## Hobbies 
-
-- Music
-- Drawing arts and doodles
-- Writing
-- Learning
-- Watching movies
-- Gaming
-- Tech stuff
-
-## Languages 
-
-- Swedish
-- English
-- Norwegian
-
 <!-- ### Footer
 
 Last updated: November 2021 -->
