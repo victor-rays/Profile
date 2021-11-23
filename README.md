@@ -1,4 +1,4 @@
-Currently Customer Support Representative for Netflix at Majorel while studying Development of e-Services.
+Studying Development of e-Services while working full-time as Customer Support.
 
 IT, Linux & Open-Source Enthusiast
 
