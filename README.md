@@ -1,9 +1,7 @@
-Studying Development of e-Services while working full-time as Customer Support.
-
 IT, Linux & Open-Source Enthusiast
 
 - 🔭 I’m currently working on various small projects as I'm progressing through my learning
-- 🌱 I’m currently studying Development of e-Services
+- 🌱 I’m currently studying Development of e-Services while working full-time as Customer Support
 
 ## Specialized in
 
