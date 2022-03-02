@@ -12,6 +12,7 @@ Information Systems
 ---
 
 [Carbon Clock](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)
+[Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)
 
 <!-- ### Footer
 
