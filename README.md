@@ -5,11 +5,23 @@ IT, Linux & Open-Source Enthusiast
 - 🔭 I’m currently working on various small projects as I'm progressing through my learning
 - 🌱 I’m currently studying Development of e-Services while working full-time as Customer Support
 
-### Specialized in
+---
 
-Informatics/Computer & Systems Sciences 
+### Development of e-Services
 
-Information Systems  
+_Summary_
+
+● Knowledge of the technical infrastructure that is the basis for service
+development in the form of broadband technology and mobile information
+technology.
+● Knowledge of information management and the soft infrastructure in terms of
+basic information resources and standards in the field.
+● Familiarity with the development of service concepts and service processes.
+● Knowledge of the organizations in which the IT services are to be used.
+● Ability to analyze user needs, how users can be involved and how e-services
+should contribute to the customers’ benefit.
+● Ability to lead development projects, including needs analysis, design of
+service concepts and service processes, programming and documentation.
 
 ---
 
