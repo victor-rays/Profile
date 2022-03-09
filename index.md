@@ -2,8 +2,8 @@
 
 IT, Linux & Open-Source Enthusiast
 
-🔭 I’m currently working on various small projects as I'm progressing through my learning  
-🌱 I’m currently studying Development of e-Services while working full-time as Customer Support  
+- ![stargazer icon](https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png) I’m currently working on various small projects as I'm progressing through my learning  
+- ![sapling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png) I’m currently studying Development of e-Services while working full-time as Customer Support  
 
 ---
 
