@@ -1,7 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/12261439/156359571-11d361bc-1ac0-48a5-9517-a08924ee1123.jpg" width="100%"></p> 
 
-|IT, Linux & Open-Source Enthusiast|
-|:-:|
+#### IT, Linux & Open-Source Enthusiast
 
 <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m currently working on various small projects as I'm progressing through my learning  
 <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m currently studying Development of e-Services while working full-time as Customer Support  
