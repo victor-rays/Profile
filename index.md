@@ -1,4 +1,8 @@
+<!--
 <p align="center"><img src="https://user-images.githubusercontent.com/12261439/156359571-11d361bc-1ac0-48a5-9517-a08924ee1123.jpg" width="100%"></p> 
+-->
+
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
 
 ### IT, Linux & Open-Source Enthusiast
 
@@ -20,13 +24,13 @@ _Summary_
 
 ---
 
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
-
 [Carbon Clock](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)
 
 [Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)  
 
-<img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">  
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=1200&height=600&lines=A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://git.io/typing-svg)
 
