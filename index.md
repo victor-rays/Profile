@@ -20,15 +20,13 @@ _Summary_
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mononoki&duration=5777&color=53E0F7&center=true&vCenter=true&lines=What+may+the+future+unfold+..+%3F)](https://git.io/typing-svg)
-
----
-
 [Carbon Clock](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)  
 
 [Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)  
 
 <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=1200&height=600&lines=A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://git.io/typing-svg)
 
 <!-- ### Footer
 
