@@ -1,8 +1,9 @@
 <!--
 <p align="center"><img src="https://user-images.githubusercontent.com/12261439/156359571-11d361bc-1ac0-48a5-9517-a08924ee1123.jpg" width="100%"></p> 
+style="width:600px; height:340px;"
 -->
 
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:600px; height:340px;"></iframe>
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263"></iframe>
 
 ### IT, Linux & Open-Source Enthusiast
 
