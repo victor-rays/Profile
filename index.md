@@ -3,7 +3,7 @@
 style="width:600px; height:340px;"
 -->
 
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="height:340px;"></iframe>
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:100%;"></iframe>
 
 ### IT, Linux & Open-Source Enthusiast
 
