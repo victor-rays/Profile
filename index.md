@@ -17,12 +17,12 @@ style="width:600px; height:340px;"
 _Summary_
 
 
-#### Upon completion of the program the student should be able to:
+##### Upon completion of the program the student should be able to:
 
 - Demonstrate skills and competencies in the development of mobile e-services,
 - Apply the knowledge obtained to the particular challenges and opportunities that exist with development of e-services.
 
-#### It includes:
+##### It includes:
 
 - Knowledge of the technical infrastructure that is the basis for service development in the form of broadband technology and mobile information technology,
 - Knowledge of information management and the soft infrastructure in terms of basic information resources and standards in the field,
