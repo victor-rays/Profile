@@ -38,6 +38,8 @@ _Summary_
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=1280&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://website.zendai.ml) 
 
+<p align="center"><a href="https://savesoil.org"><img src="https://www.datocms-assets.com/60396/1648286746-english.png" width="80%"></a></p> 
+
 <!-- ### Footer
 
 Last updated: November 2021 -->
