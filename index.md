@@ -3,11 +3,13 @@
 style="width:600px; height:340px;"
 -->
 
+<p align="center"><a href="https://savesoil.org"><img src="https://www.datocms-assets.com/60396/1648286746-english.png" width="100%"></a></p> 
+
 <iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:340px;"></iframe>
 
 ### IT, Linux & Open-Source Enthusiast
 
-<img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m working on various small projects as I'm progressing through my learning  
+<img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m working on various small projects & tinkerings as I'm progressing through my learning  
 <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m studying Development of e-Services while working full-time as Customer Support  
 
 ---
