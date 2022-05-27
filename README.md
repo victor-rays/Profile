@@ -37,12 +37,12 @@ _Summary_
 
 ---
   
-  [SaveSoil](https://savesoil.org/)
-  
-  [Carbon Clock Big](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)
-  
-  [Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)  
-  
+- [Carbon Clock Big](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)
+
+- [Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)  
+
+- [SaveSoil](https://savesoil.org/)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">  
 </p>
