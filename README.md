@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="ZendaiOwl's GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="ZendaiOwl's GitHub Stats"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="ZendaiOwl's GitHub Stats Overview"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="ZendaiOwl's GitHub Stats Languages"></p>
 
