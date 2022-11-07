@@ -1,7 +1,3 @@
-
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:340px;"></iframe>
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm" style="width:300px; height:200px;"></iframe>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png"></p>
 
 <p align="center"><img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="ZendaiOwl's GitHub Stats"></p>
@@ -41,6 +37,11 @@ _Summary_
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=1280&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://website.zendai.ml)
 
 <!-- <p align="center"><a href="https://www.consciousplanet.org/action-now"><img src="https://user-images.githubusercontent.com/12261439/170794643-5f39d84c-9fcb-4c4b-9a2e-b2f524e8fb6f.png" width="100%"></a></p> -->
+
+---
+
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:340px;"></iframe>
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm" style="width:300px; height:200px;"></iframe>
 
 [Carbon Clock Big](https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm)  
 [Carbon Clock Small](https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm)  
