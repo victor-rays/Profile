@@ -69,16 +69,19 @@ _Summary_
   <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&duration=4800&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++" alt="Typing SVG" width="100%" height="100%">
 </p>
 
+<!--
 
 [Carbon Clock Big][carbon-clock-big]
 
 [Carbon Clock Small][carbon-clock-small]
 
-[university-programme]: https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/
-
 [carbon-clock-big]: https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm
 
 [carbon-clock-small]: https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm
+
+-->
+
+[university-programme]: https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/
 
 <!--
 
