@@ -1,7 +1,9 @@
 <div>
-
+ 
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
+  <a href="https://github.com/ZendaiOwl">
+   <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
+  </a>
  </div>
  
  <p style="font-family: Red Hat Text; font-size: 24px;" align="center">
@@ -9,16 +11,18 @@
  </p>
  
  <div align="center">
-  <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
+  <a href="https://github.com/ZendaiOwl">
+   <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
+  </a>
  </div>
  
 <div style="display: flex;">
- 
  <div align="center">
+  <a href="https://github.com/ZendaiOwl">
    <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
    <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
+  </a>
  </div>
-
 </div>
 
  <div align="center">
@@ -28,11 +32,15 @@
  </div>
  
  <p align="left">
-  <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m working on various small projects as I'm progressing through my learning
+  <a href="https://github.com/ZendaiOwl">
+   <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px">
+  </a> I’m working on various small projects as I'm progressing through my learning
  </p>
  
  <p align="left">
-  <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m studying Development of e-Services while working full-time as customer support
+  <a href="https://github.com/ZendaiOwl">
+   <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px">
+  </a> I’m studying Development of e-Services while working full-time as customer support
  </p>
 
 </div>
@@ -60,7 +68,9 @@ _Summary_
 ---
 
 <div align="center">
+ <a href="https://github.com/ZendaiOwl">
   <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&duration=4800&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++" alt="Typing SVG" width="100%" height="100%">
+ </a>
 </div>
 
 <!--
