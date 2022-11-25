@@ -1,7 +1,13 @@
-@import "{{ site.theme }}";
+@import "jekyll-theme-slate";
 #project_title {
   text-align: center;
 }
 #project_tagline {
+  text-align: center;
+}
+header {
+  text-align: center;
+}
+.inner {
   text-align: center;
 }
