@@ -1,8 +1,7 @@
-.inner {
-  position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
-  margin: 0 auto;
+@import "{{ site.theme }}";
+#project_title {
   text-align: center;
 }
-@import "{{ site.theme }}";
+#project_tagline {
+  text-align: center;
+}
