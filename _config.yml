@@ -1,3 +1,7 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
 title: Victor-ray, S.
 description: Just a simple website
+show_downloads: false
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
