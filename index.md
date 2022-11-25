@@ -1,3 +1,7 @@
+<style>
+ #header_wrap { display: none; }
+ #footer_wrap { display: none; }
+</style>
 <div>
 
  <div align="center">
