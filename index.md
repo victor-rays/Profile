@@ -1,16 +1,44 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png"></p>
+<div class="container">
 
-<p align="center"><img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="ZendaiOwl's GitHub Stats"></p>
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
+ </p>
+ 
+ <p style="font-family: Red Hat Text; font-size: 24px;" align="center">
+    IT, Linux &amp; Open-source enthusiast
+ </p>
+ 
+ <p align="center">
+  <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
+ </p>
+ 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
+ </p>
+ 
+ <div class="container-images" style="display: flex;">
+ 
+  <p align="center">
+   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
+  </p>
+  
+  <p align="center">
+   <a href="https://www.buymeacoffee.com/zendaiowl">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+   </a>
+  </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="ZendaiOwl's GitHub Stats Overview"></p>
+</div>
+ 
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m working on various small projects as I'm progressing through my learning
+ </p>
+ 
+ <p align="left">
+  <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m studying Development of e-Services while working full-time as customer support
+ </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="ZendaiOwl's GitHub Stats Languages"></p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/zendaiowl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
-
-<p align="left"><img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" width="24px" height="24px"> I’m working on various small projects as I'm progressing through my learning</p>
-
-<p align="left"><img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m studying Development of e-Services while working full-time as customer support</p>
+</div>
 
 ---
 
@@ -35,8 +63,6 @@ _Summary_
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://website.zendai.ml)
-
-<!-- <p align="center"><a href="https://www.consciousplanet.org/action-now"><img src="https://user-images.githubusercontent.com/12261439/170794643-5f39d84c-9fcb-4c4b-9a2e-b2f524e8fb6f.png" width="100%"></a></p> -->
 
 ---
 
