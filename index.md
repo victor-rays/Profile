@@ -23,17 +23,17 @@
  </p>
  
  <div align="center">
-  <div align="center">
+  <div>
    <a href="https://github.com/ZendaiOwl">
     <img class="card" src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
    </a>
   </div>
-  <div align="center">
+  <div>
    <a href="https://github.com/ZendaiOwl">
     <img class="card" src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
    </a>
   </div>
-  <div align="center">
+  <div>
    <a href="https://github.com/ZendaiOwl">
     <img class="card" src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
    </a>
