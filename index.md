@@ -15,20 +15,12 @@
  </p>
  
  <div align="center">
-  <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
+  <a href="https://github.com/ZendaiOwl">
+   <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
+   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
+   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
+  </a>
  </div>
- 
-<div style="display: flex;">
- 
- <div>
-  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
- </div>
- 
- <div>
-  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
- </div>
- 
-</div>
 
  <div align="center">
   <a href="https://www.buymeacoffee.com/zendaiowl">
