@@ -1,14 +1,6 @@
 <style>
  #header_wrap { display: none; }
  #footer_wrap { display: none; }
- .card {
-  background-color: white;
-  border-radius: 0.25rem;
-  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
-  color: #4a4a4a;
-  max-width: 100%;
-  position: relative;
-}
 </style>
 <div>
 
@@ -19,23 +11,14 @@
  </div>
  
  <p style="font-family: Red Hat Text; font-size: 24px;" align="center">
-  IT, Linux &amp; Open-source enthusiast
+  IT, Linux &amp; Open-source enthusiast.<br>
+  <a href="https://github.com/ZendaiOwl">GitHub</a>
  </p>
  
  <div align="center">
-  <a href="https://github.com/ZendaiOwl">
-   <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
-  </a>
- </div>
- <div align="center">
-  <a href="https://github.com/ZendaiOwl">
-   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
-  </a>
- </div>
- <div align="center">
-  <a href="https://github.com/ZendaiOwl">
-   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
-  </a>
+  <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials"><br>
+  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview">
+  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Programming language stats">
  </div>
 
  <div align="center">
@@ -76,11 +59,11 @@ _Summary_
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://github.com/ZendaiOwl)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=mononoki&duration=6000&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++)](https://readme-typing-svg.herokuapp.com)
 
 ---
 
-<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:340px;"></iframe>
+<iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="max-width:640px; height:340px;"></iframe>
 <iframe src="https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm" style="width:300px; height:200px;"></iframe>
 
 [Carbon Clock Big][carbon-clock-big]
