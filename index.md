@@ -1,9 +1,3 @@
-<style>
- #header_wrap { display: none; }
- #footer_wrap { display: none; }
-</style>
-<div>
-
  <div align="center">
   <a href="https://github.com/ZendaiOwl">
    <img class="card" src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
@@ -34,8 +28,6 @@
  <p align="left">
   <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" width="24px" height="24px"> I’m studying Development of e-Services while working full-time as customer support
  </p>
-
-</div>
 
 ---
 
