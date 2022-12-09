@@ -55,6 +55,8 @@ _Summary_
 
 ---
 
+<!--
+
 <iframe src="https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm?i=3267263" style="width:100%; height:340px;"></iframe>
 <iframe src="https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm" style="width:300px; height:200px;"></iframe>
 
@@ -62,11 +64,13 @@ _Summary_
 
 [Carbon Clock Small][carbon-clock-small]
 
-[university-programme]: https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/
-
 [carbon-clock-big]: https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm
 
 [carbon-clock-small]: https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm
+
+-->
+
+[university-programme]: https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/
 
 <!--
 
