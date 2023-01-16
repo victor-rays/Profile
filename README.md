@@ -1,26 +1,13 @@
-<div>
- 
- <div align="center">
-  <a href="https://github.com/ZendaiOwl">
-   <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
-  </a>
- </div>
+<div align="center">
+ <a href="https://github.com/ZendaiOwl">
+  <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
+ </a>
+</div>
  
 <p style="font-family: Red Hat Text; font-size: 24px;" align="center">
   IT, Linux &amp; Open-source enthusiast
 </p>
- 
-<p align="center">
-  <img alt="GH Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
-</p>
- 
-<p align="center">
-  <a href="https://github.com/ZendaiOwl">
-    <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" 
-         alt="GitHub stats essentials">
-  </a>
-</p>
- 
+
 <div style="display: flex;">
   <p align="center">
    <a href="https://github.com/ZendaiOwl">
@@ -33,7 +20,20 @@
 </div>
 
 <p align="center">
-  <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl"> 
+  <a href="https://github.com/ZendaiOwl">
+    <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" 
+         alt="GitHub essentials statistics">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="GitHub streaks" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
+</p>
+
+<p align="center">
+  <img alt="GitHub activity statistics" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl"> 
 </p>
  
  <p align="center">
@@ -59,8 +59,6 @@
         height="24px">
   </a> I’m studying Development of e-Services while working full-time as customer support
  </p>
-
-</div>
 
 ---
 
