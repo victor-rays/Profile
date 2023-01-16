@@ -11,11 +11,11 @@
  </p>
  
 <p align="center">
- <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl&theme=vue"> 
+ <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl"> 
 </p>
 
 <p align="center">
- <img alt="GH Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl"> 
+ <img alt="GH Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
 </p>
  
  <div align="center">
