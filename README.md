@@ -13,6 +13,10 @@
 <p align="center">
  <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl&theme=vue"> 
 </p>
+
+<p align="center">
+ <img alt="GH Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl"> 
+</p>
  
  <div align="center">
   <a href="https://github.com/ZendaiOwl">
