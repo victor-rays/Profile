@@ -8,9 +8,19 @@
    align="center">
   IT, Linux &amp; Open-source enthusiast
 </p>
- 
+
 <p align="center">
-  <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
+ <a href="https://github.com/ZendaiOwl">
+  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+       alt="Programming languages used">
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://github.com/ZendaiOwl">
+  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+       alt="GitHub stats overview">
+ </a>
 </p>
  
 <p align="center">
@@ -19,17 +29,10 @@
          alt="GitHub essentials statistics">
   </a>
 </p>
- 
-<div style="display: flex;">
-  <p align="center">
-   <a href="https://github.com/ZendaiOwl">
-    <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
-         alt="GitHub stats overview">
-    <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
-         alt="Programming languages">
-   </a>
- </p>
-</div>
+
+<p align="center">
+  <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
+</p>
 
 <p align="center">
   <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl" 
