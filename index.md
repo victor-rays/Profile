@@ -1,21 +1,22 @@
-<div align="center">
+<p align="center">
  <a href="https://github.com/ZendaiOwl">
   <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
  </a>
-</div>
+</p>
  
-<p style="font-family: Red Hat Text; font-size: 24px;" align="center">
+<p style="font-family: Red Hat Text; font-size: 24px;" 
+   align="center">
   IT, Linux &amp; Open-source enthusiast
 </p>
  
 <p align="center">
-  <img alt="GH Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
+  <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
 </p>
  
 <p align="center">
   <a href="https://github.com/ZendaiOwl">
     <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" 
-         alt="GitHub stats essentials">
+         alt="GitHub essentials statistics">
   </a>
 </p>
  
@@ -25,13 +26,15 @@
     <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
          alt="GitHub stats overview">
     <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
-         alt="Programming language stats">
+         alt="Programming languages">
    </a>
  </p>
 </div>
 
 <p align="center">
-  <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl"> 
+  <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl" 
+       alt="GitHub activity statistics" 
+       width="640"> 
 </p>
 
  <p align="center">
