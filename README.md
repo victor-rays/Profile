@@ -10,12 +10,16 @@
   IT, Linux &amp; Open-source enthusiast
  </p>
  
+<p align="center">
+ <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl&theme=vue"> 
+</p>
+ 
  <div align="center">
   <a href="https://github.com/ZendaiOwl">
    <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" alt="GitHub stats essentials">
   </a>
  </div>
- 
+
 <div style="display: flex;">
  <div align="center">
   <a href="https://github.com/ZendaiOwl">
@@ -24,7 +28,8 @@
   </a>
  </div>
 </div>
-
+ 
+ 
  <div align="center">
   <a href="https://www.buymeacoffee.com/zendaiowl">
    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
