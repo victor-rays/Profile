@@ -10,32 +10,27 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/ZendaiOwl">
   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
        alt="Programming languages used">
- </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/ZendaiOwl">
   <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
        alt="GitHub stats overview">
- </a>
 </p>
  
 <p align="center">
-  <a href="https://github.com/ZendaiOwl">
     <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" 
          alt="GitHub essentials statistics">
-  </a>
 </p>
 
 <p align="center">
-  <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark" 
+       alt="GitHub streaks"> 
 </p>
 
 <p align="center">
-  <img alt="GH Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl" 
        alt="GitHub activity statistics" 
        width="640"> 
 </p>
@@ -43,19 +38,21 @@
  <p align="center">
   <a href="https://www.buymeacoffee.com/zendaiowl">
    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" 
-        alt="Buy Me A Coffee" 
+        alt="Buy me a coffee" 
         style="height: 60px !important;width: 217px !important;">
   </a>
  </p>
  
  <p align="left">
   <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" 
+       alt="A small tree sapling"
        width="24px" 
        height="24px"> I’m working on various small projects as I'm progressing through my learning
  </p>
  
  <p align="left">
   <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" 
+       alt="A small periscope"
        width="24px" 
        height="24px"> I’m studying Development of e-Services while working full-time as customer support
  </p>
