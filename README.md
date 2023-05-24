@@ -72,6 +72,19 @@ _Summary_
 
 ---
 
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Word+of+God;Child+of+God;Seeking+the+Word+of+God;Seed+of+Malice+in+the+Heart+of+Man;Sanctuary+is+within;Man+of+God+stands+guard+at+the+Gates+of+Hell+so+the+Gates+of+Heaven+may+open;Nurtured+by+anger+%26+hate+Malice+will+bloom+and+Hell+on+Earth+is+soon+to+follow;The+Word+of+God+is+Truth;What+I+do+not+know%2C+I+do+not+know.+What+I+know%2C+I+know;Truth;Responsibility;Learn+to+stand+on+my+own;Man+of+God+stands+for+what+is+true+%26+right+even+if+he+must+stand+alone;The+angel+of+death+hangs+at+every+word)](https://website.zendai.net.eu.org)
+-->
+
+<p align="center">
+ <a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&pause=1000&center=true&vCenter=true&width=640&lines=Word+of+God;Child+of+God;Seeking+the+Word+of+God;Seed+of+Malice+in+the+Heart+of+Man;Sanctuary+is+within;Man+of+God+stands+guard+at+the+Gates+of+Hell+so+the+Gates+of+Heaven+may+open;Nurtured+by+anger+%26+hate+Malice+will+bloom+and+Hell+on+Earth+is+soon+to+follow;The+Word+of+God+is+Truth;What+I+do+not+know%2C+I+do+not+know.+What+I+know%2C+I+know;Truth;Responsibility;Learn+to+stand+on+my+own;Man+of+God+stands+for+what+is+true+%26+right+even+if+he+must+stand+alone;The+angel+of+death+hangs+at+every+word" 
+       alt="Typing SVG" 
+       width="100%" 
+       height="100%">
+ </a>
+</p>
+
 <p align="center">
  <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&duration=4800&color=2091F7&center=true&vCenter=true&multiline=true&width=640&height=640&lines=What+I+do+not+know,+I+do+not+know.;What+I+know,+I+know.;-+Sadhguru;;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;-+Alan+Watts;++++++++++++;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;-+Eleanor+Roosevelt+;++++++++++++;You+must+be+the+change+you+wish+to+see+in+the+world;-+Mahatma+Gandhi;++++++++++++;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;-+Alan+Watts;++++++++++++;What+will+today+unfold+..+%3F;-+Me;++++++++++++;++++++++++++" 
