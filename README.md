@@ -78,7 +78,7 @@ _Summary_
 
 <p align="center">
  <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&size=16&weight=250&pause=1000&center=true&vCenter=true&width=640&lines=Word+of+God;Child+of+God;Seeking+the+Word+of+God;Seed+of+Malice+in+the+Heart+of+Man;Sanctuary+is+within;Man+of+God+stands+guard+at+the+Gates+of+Hell+so+the+Gates+of+Heaven+may+open;Nurtured+by+anger+%26+hate+Malice+will+bloom+and+Hell+on+Earth+is+soon+to+follow;The+Word+of+God+is+Truth;What+I+do+not+know%2C+I+do+not+know.+What+I+know%2C+I+know;Truth;Responsibility;Learn+to+stand+on+my+own;Man+of+God+stands+for+what+is+true+%26+right+even+if+he+must+stand+alone;The+angel+of+death+hangs+at+every+word" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&size=16&weight=250&pause=1000&center=true&vCenter=true&width=720&lines=Word+of+God;Child+of+God;Seeking+the+Word+of+God;Seed+of+Malice+in+the+Heart+of+Man;Sanctuary+is+within;Man+of+God+stands+guard+at+the+Gates+of+Hell+so+the+Gates+of+Heaven+may+open;Nurtured+by+anger+%26+hate+Malice+will+bloom+and+Hell+on+Earth+is+soon+to+follow;The+Word+of+God+is+Truth;What+I+do+not+know%2C+I+do+not+know.+What+I+know%2C+I+know;Truth;Responsibility;Learn+to+stand+on+my+own;Man+of+God+stands+for+what+is+true+%26+right+even+if+he+must+stand+alone;The+angel+of+death+hangs+at+every+word;" 
        alt="Typing SVG" 
        width="100%" 
        height="100%">
