@@ -3,7 +3,7 @@
 </div>
  
 <p style="font-family: Red Hat Text; font-size: 24px;" align="center">
-  IT, Linux &amp; Open-source enthusiast
+  IT, IoT &amp; Linux
 </p>
 
 <div style="display: flex;">
