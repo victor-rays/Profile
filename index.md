@@ -79,7 +79,7 @@ _Summary_
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Lust;Gluttony;Greed;Sloth;Wrath;Envy;Pride;Ignorance;Attachment;Aversion;All+existence+is+suffering;Suffering+produced+by+painful+experiences;Suffering+produced+by+change;Suffering+produced+by+conditioning;The+origin+of+suffering+is+craving;Craving+for+sensory+pleasures;Craving+to+be;Craving+not+to+be;The+end+of+suffering+comes+with+the+end+of+craving;There+is+a+path+that+leads+from+suffering;Right+View;Right+Intention;Right+Speech;Right+Action;Right+Livelihood;Right+Effort;Right+Mindfulness;Right+Concentration;The+truth+of+suffering;The+truth+of+origin;The+truth+of+cessation;The+truth+of+the+path)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Lust;Gluttony;Greed;Sloth;Wrath;Envy;Pride;Ignorance;Attachment;Aversion;All+existence+is+suffering;Suffering+produced+by+painful+experiences;Suffering+produced+by+change;Suffering+produced+by+conditioning;The+origin+of+suffering+is+craving;Craving+for+sensory+pleasures;Craving+to+be;Craving+not+to+be;The+end+of+suffering+comes+with+the+end+of+craving;There+is+a+path+that+leads+from+suffering;Right+View;Right+Intention;Right+Speech;Right+Action;Right+Livelihood;Right+Effort;Right+Mindfulness;Right+Concentration;Kindness;Temperance;Charity;Chastity;Humility;Diligence;Patience;The+truth+of+suffering;The+truth+of+origin;The+truth+of+cessation;The+truth+of+the+path)](https://git.io/typing-svg)
 
 ---
 
