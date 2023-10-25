@@ -72,33 +72,8 @@ _Summary_
 
 ---
 
-<p align="center">
- <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=mononoki&size=16&weight=250&pause=1000&center=true&vCenter=true&width=720&lines=What+I+do+not+know%2C+I+do+not+know.+What+I+know%2C+I+know;Yesterday+is+history;Tomorrow+is+a+mystery;But+today+is+a+gift;That+is+why+it+is+called+the+present;A+person+who+thinks+all+the+time;Has+nothing+to+think+about+except+thoughts;So+they+loose+touch+with+reality;And+lives+in+a+world+of+illusion;You+are+a+function+of+what+the+universe+is+doing;In+the+same+way+that+a+wave;Is+a+function+of+what+the+whole+ocean+is+doing;Word+of+God;Child+of+God;Seeking+the+Word+of+God;The+Word+of+God+is+Truth;Sanctuary+is+within;Seed+of+Malice+in+the+Heart+of+Man;Nurtured+by+anger+%26+hate,+Malice+will+bloom+and+Hell+on+Earth+is+soon+to+follow;Man+of+God+stands+guard+at+the+Gates+of+Hell,+so+Gates+of+Heaven+may+open;Truth;Responsibility;Learn+to+stand+alone;Man+of+God+stands+for+what+is+true+%26+right+even+if+he+must+stand+alone;The+angel+of+death+hangs+at+every+word;" 
-       alt="Typing SVG" 
-       width="100%" 
-       height="100%">
- </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Lust;Gluttony;Greed;Sloth;Wrath;Envy;Pride;Ignorance;Attachment;Aversion;All+existence+is+suffering;Suffering+produced+by+painful+experiences;Suffering+produced+by+change;Suffering+produced+by+conditioning;The+origin+of+suffering+is+craving;Craving+for+sensory+pleasures;Craving+to+be;Craving+not+to+be;The+end+of+suffering+comes+with+the+end+of+craving;There+is+a+path+that+leads+from+suffering;Right+View;Right+Intention;Right+Speech;Right+Action;Right+Livelihood;Right+Effort;Right+Mindfulness;Right+Concentration;The+truth+of+suffering;The+truth+of+origin;The+truth+of+cessation;The+truth+of+the+path)](https://git.io/typing-svg)
 
-<!--
-
-[Carbon Clock Big][carbon-clock-big]
-
-[Carbon Clock Small][carbon-clock-small]
-
-[carbon-clock-big]: https://www.mcc-berlin.net/fileadmin/data/clock/carbon_clock.htm
-
-[carbon-clock-small]: https://www.mcc-berlin.net/fileadmin/data/video/carbon_clock_s/carbon_clock.htm
-
--->
+<!-- LINKS -->
 
 [university-programme]: https://www.du.se/sv/Utbildning/Program/utveckling-av-etjanster/
-
-<!--
-
-A note field for saving the emoji's from the default page.
-
-✨ ⚡ 🔭 🌱 👯 🤔 💬 📫 😄
-
--->
