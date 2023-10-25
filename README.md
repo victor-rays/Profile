@@ -21,11 +21,6 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub streaks" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ZendaiOwl&theme=dark"> 
-</p>
-
-<p align="center">
   <img alt="GitHub activity statistics" 
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl"> 
 </p>
