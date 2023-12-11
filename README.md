@@ -68,7 +68,7 @@ _Summary_
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Cognitive-Theoretic+Model+of+the+Universe+-+Chris+Langan;Ultimate+Reality+is+God;The+Universe+is+Ultimate+Reality;The+Universe+is+Mind;The+Universe+is+God;Seek+the+Kingdom+of+God;Seek+the+Lord;Absolute+Truth" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Cognitive-Theoretic+Model+of+the+Universe+-+Chris+Langan;Ultimate+Reality+is+God;The+Universe+is+Ultimate+Reality;Mind+Equals+Reality;Seek+the+Kingdom+of+God;Seek+the+Lord;Absolute+Truth" alt="Typing SVG" /></a>
 </div>
 
 <!-- LINKS -->
