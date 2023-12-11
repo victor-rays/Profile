@@ -49,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" 
        alt="A small periscope"
        width="24px" 
-       height="24px"> I’m studying Development of e-Services while working full-time as customer support
+       height="24px"> I’m studying Development of e-Services while working as customer support
  </p>
 
 ---
