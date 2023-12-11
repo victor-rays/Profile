@@ -68,7 +68,7 @@ _Summary_
 ---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Lust;Gluttony;Greed;Sloth;Wrath;Envy;Pride;Ignorance;Attachment;Aversion;All+existence+is+suffering;Suffering+produced+by+painful+experiences;Suffering+produced+by+change;Suffering+produced+by+conditioning;The+origin+of+suffering+is+craving;Craving+for+sensory+pleasures;Craving+to+be;Craving+not+to+be;The+cessation+of+suffering+comes+with+the+cessation+of+craving;There+is+a+path+that+leads+from+suffering;Right+View;Right+Intention;Right+Speech;Right+Action;Right+Livelihood;Right+Effort;Right+Mindfulness;Right+Concentration;Kindness;Temperance;Charity;Chastity;Humility;Diligence;Patience;The+truth+of+suffering;The+truth+of+origin;The+truth+of+cessation;The+truth+of+the+path" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=250&size=16&pause=1000&center=true&vCenter=true&random=false&width=720&lines=Cognitive-Theoretic+Model+of+the+Universe+-+Chris+Langan;Ultimate+Reality+is+God;The+Universe+is+Ultimate+Reality;The+Universe+is+Mind;The+Universe+is+God;Seek+the+Kingdom+of+God;Seek+the+Lord;Absolute+Truth" alt="Typing SVG" /></a>
 </div>
 
 <!-- LINKS -->
