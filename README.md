@@ -33,14 +33,3 @@
   </a>
  </p>
  
- <p align="left">
-   <img src="https://user-images.githubusercontent.com/12261439/157476806-f4b817ea-b7d1-40c6-92e7-b7dc08f011ca.png" 
-        width="24px" 
-        height="24px"> I’m working on various small projects as I'm progressing through my learning
- </p>
- 
- <p align="left">
-   <img src="https://user-images.githubusercontent.com/12261439/157476831-da9cd842-c008-4b6b-bfe7-767df0cc9453.png" 
-        width="24px" 
-        height="24px"> I’m studying Development of e-Services while working as customer support
- </p>
