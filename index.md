@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://github.com/ZendaiOwl">
+ <a href="https://github.com/victor-rays">
   <img src="https://user-images.githubusercontent.com/12261439/156358173-e4389fb4-6889-471b-ab84-01e89362cca0.png">
  </a>
 </p>
@@ -10,22 +10,22 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+  <img src="https://raw.githubusercontent.com/victor-rays/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
        alt="Programming languages used">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZendaiOwl/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+  <img src="https://raw.githubusercontent.com/victor-rays/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
        alt="GitHub stats overview">
 </p>
  
 <p align="center">
-    <img src="https://github-readme-stats-zendai.vercel.app/api?username=zendaiowl&theme=nightowl&show_icons=true" 
+    <img src="https://github-readme-stats-zendai.vercel.app/api?username=victor-rays&theme=nightowl&show_icons=true" 
          alt="GitHub essentials statistics">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZendaiOwl" 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-rays" 
        alt="GitHub activity statistics" 
        width="640"> 
 </p>
